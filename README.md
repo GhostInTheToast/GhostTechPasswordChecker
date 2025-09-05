@@ -112,3 +112,9 @@ This tool demonstrates cybersecurity best practices including:
 - Defensive security principles
 
 Created by GhostTech Enterprise LLC as a practical security utility.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This means you are free to use, modify, and distribute this software for any purpose, including commercial use, with no restrictions other than including the original copyright notice.
